@@ -1,0 +1,22 @@
+* {
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+  user-select: none; /* supported by Chrome and Opera */
+   -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+   -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+}
+
+.navbar[_ngcontent-thb-c48] {
+  background-color: darkslategrey;
+}
+
+body {
+  background-color: #fff;
+
+}
+::-webkit-scrollbar {
+  display: none;
+}
